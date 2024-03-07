@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=GaneshKandu&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&count_private=true&theme=onedark) 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GaneshKandu&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&count_private=true&theme=onedark) 
+
+![](https://github-profile-trophy.vercel.app/?username=GaneshKandu&theme=radical&column=3) 
