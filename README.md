@@ -2,8 +2,6 @@
 
 Backend Software Engineer focused on building scalable, secure, and high-performance systems.
 
-Currently working on government-scale digital platforms with experience in authentication systems, document management, cloud infrastructure, asynchronous processing, and API development.
-
 ---
 
 ## 🚀 What I Work On
@@ -40,6 +38,8 @@ Currently working on government-scale digital platforms with experience in authe
 
 * MongoDB
 * MySQL
+* MariaDB
+* Sqlite
 * Redis
 * LMDB
 
@@ -52,7 +52,10 @@ Currently working on government-scale digital platforms with experience in authe
 
 * Docker
 * Nginx
+* Apache
 * Gunicorn
+* Uvicorn
+* PM2
 * Supervisor
 * Git
 
@@ -63,6 +66,8 @@ Currently working on government-scale digital platforms with experience in authe
 * WeasyPrint
 * Jinja2
 * REST APIs
+* Socket
+* RPC
 * Linux
 
 ---
@@ -71,7 +76,6 @@ Currently working on government-scale digital platforms with experience in authe
 
 I enjoy creating and maintaining Python and PHP packages that solve real-world backend problems, especially around:
 
-* HTML to PDF generation
 * Backend utilities
 * Performance optimization
 * Developer productivity
