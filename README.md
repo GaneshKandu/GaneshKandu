@@ -54,7 +54,6 @@ Backend Software Engineer focused on building scalable, secure, and high-perform
 * Nginx
 * Apache
 * Gunicorn
-* Uvicorn
 * PM2
 * Supervisor
 * Git
