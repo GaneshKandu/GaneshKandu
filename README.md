@@ -1,14 +1,104 @@
-### Hi there 👋
+# Hi, I'm Ganesh Kandu 👋
 
-[![email](https://img.shields.io/badge/email-kanduganesh%40gmail.com-black)](email:kanduganesh@gmail.com)   ![followers](https://img.shields.io/github/followers/GaneshKandu?style=social) 
+Backend Software Engineer focused on building scalable, secure, and high-performance systems.
 
-### Repositories i have contributed in
-![](https://github-contributor-stats.vercel.app/api?username=GaneshKandu&limit=50&theme=dark&combine_all_yearly_contributions=true)
+Currently working on government-scale digital platforms with experience in authentication systems, document management, cloud infrastructure, asynchronous processing, and API development.
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GaneshKandu&theme=github_dark) 
+---
 
-![](https://github-readme-stats.vercel.app/api?username=GaneshKandu&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&count_private=true&theme=onedark) 
+## 🚀 What I Work On
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GaneshKandu&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&count_private=true&theme=onedark) 
+* High-performance Backend APIs
+* Distributed Systems
+* Authentication & Security
+* PDF Generation Pipelines
+* Queue-based Architectures
+* Cloud Storage Integrations
+* Performance Optimization
+* Open Source Libraries
 
-![](https://github-profile-trophy.vercel.app/?username=GaneshKandu&theme=radical&column=3) 
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+* Python
+* PHP
+* JavaScript
+* SQL
+
+### Frameworks
+
+* FastAPI
+* Flask
+* Laravel
+* CodeIgniter
+* Express.js
+
+### Databases
+
+* MongoDB
+* MySQL
+* Redis
+* LMDB
+
+### Messaging & Storage
+
+* RabbitMQ
+* AWS S3
+
+### DevOps
+
+* Docker
+* Nginx
+* Gunicorn
+* Supervisor
+* Git
+
+### Other
+
+* Playwright
+* Chromium
+* WeasyPrint
+* Jinja2
+* REST APIs
+* Linux
+
+---
+
+## 📦 Open Source
+
+I enjoy creating and maintaining Python and PHP packages that solve real-world backend problems, especially around:
+
+* HTML to PDF generation
+* Backend utilities
+* Performance optimization
+* Developer productivity
+
+---
+
+## 🌱 Currently Exploring
+
+* Artificial Intelligence
+* Machine Learning
+* Computer Vision
+* Large Language Models
+* Distributed Computing
+* High-performance Python
+* Embedded Systems
+
+---
+
+## 📈 GitHub Statistics
+
+![](https://github-readme-stats.vercel.app/api?username=GaneshKandu\&show_icons=true\&count_private=true\&theme=github_dark)
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=GaneshKandu\&theme=github-dark)
+
+---
+
+## 📫 Connect
+
+* 📧 [kanduganesh@gmail.com](mailto:kanduganesh@gmail.com)
+* GitHub: https://github.com/GaneshKandu
