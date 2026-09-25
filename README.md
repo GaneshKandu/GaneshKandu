@@ -1,107 +1,28 @@
 # Hi, I'm Ganesh Kandu 👋
 
-Backend Software Engineer focused on building scalable, secure, and high-performance systems.
+**Backend Software Engineer** focused on building scalable, secure, and high-performance systems.
 
----
+### 🚀 Focus
 
-## 🚀 What I Work On
+Backend APIs · Distributed Systems · Security · Authentication · PDF Pipelines · Queues · Cloud Storage · Performance · Open Source
 
-* High-performance Backend APIs
-* Distributed Systems
-* Authentication & Security
-* PDF Generation Pipelines
-* Queue-based Architectures
-* Cloud Storage Integrations
-* Performance Optimization
-* Open Source Libraries
+### 💻 Stack
 
----
+- **Languages:** Python, PHP, JavaScript, SQL
+- **Frameworks:** FastAPI, Flask, Laravel, CodeIgniter, Express.js
+- **Databases:** MongoDB, MySQL, MariaDB, SQLite, Redis, LMDB
+- **Messaging/Storage:** RabbitMQ, AWS S3
+- **DevOps:** Docker, Nginx, Apache, Gunicorn, PM2, Supervisor, Git
+- **Tools:** Playwright, Chromium, WeasyPrint, Jinja2, REST, Socket, RPC, Linux
 
-## 💻 Tech Stack
+### 📦 Open Source
 
-### Languages
+Building Python and PHP packages focused on backend utilities, performance, security, and developer productivity.
 
-* Python
-* PHP
-* JavaScript
-* SQL
+### 🌱 Exploring
 
-### Frameworks
+AI · ML · Computer Vision · LLMs · Distributed Computing · High-Performance Python · Embedded Systems
 
-* FastAPI
-* Flask
-* Laravel
-* CodeIgniter
-* Express.js
+### 📫 Connect
 
-### Databases
-
-* MongoDB
-* MySQL
-* MariaDB
-* Sqlite
-* Redis
-* LMDB
-
-### Messaging & Storage
-
-* RabbitMQ
-* AWS S3
-
-### DevOps
-
-* Docker
-* Nginx
-* Apache
-* Gunicorn
-* PM2
-* Supervisor
-* Git
-
-### Other
-
-* Playwright
-* Chromium
-* WeasyPrint
-* Jinja2
-* REST APIs
-* Socket
-* RPC
-* Linux
-
----
-
-## 📦 Open Source
-
-I enjoy creating and maintaining Python and PHP packages that solve real-world backend problems, especially around:
-
-* Backend utilities
-* Performance optimization
-* Developer productivity
-
----
-
-## 🌱 Currently Exploring
-
-* Artificial Intelligence
-* Machine Learning
-* Computer Vision
-* Large Language Models
-* Distributed Computing
-* High-performance Python
-* Embedded Systems
-
----
-
-## 📈 GitHub Statistics
-
-![](https://github-readme-stats.vercel.app/api?username=GaneshKandu\&show_icons=true\&count_private=true\&theme=github_dark)
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=GaneshKandu\&theme=github-dark)
-
----
-
-## 📫 Connect
-
-* 📧 [kanduganesh@gmail.com](mailto:kanduganesh@gmail.com)
-* GitHub: https://github.com/GaneshKandu
+📧 **[kanduganesh@gmail.com](mailto:kanduganesh@gmail.com)**
